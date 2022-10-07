@@ -28,3 +28,35 @@
 - pass as an argument
 - return from other function
 - some example of higher order function are map(), setTimeOut()
+
+# pure function
+
+- same argument = same result
+
+  - no random values
+  - no current date
+  - no global state
+  - no mutation of paramiters, db, etc
+
+- not everything have to be pure
+- reducer is a pure function in redux
+
+* benifit of pure function
+
+- self documented
+- easily testable
+- concurrency
+- catchable
+
+# immutablity
+
+- javascript is not a pure functional language
+- why immutability?
+  - predictability
+  - faster change detection
+
+* pros of immutability
+
+- predictablity
+- faster change detection
+- concurrency
