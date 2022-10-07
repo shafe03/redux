@@ -60,3 +60,5 @@
 - predictablity
 - faster change detection
 - concurrency
+
+# immutable.js immer.js and mori are libraries for immutablity
