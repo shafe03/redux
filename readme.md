@@ -62,3 +62,15 @@
 - concurrency
 
 # immutable.js immer.js and mori are libraries for immutablity
+
+# redux fundamentals
+
+- action -> store -> reducer
+- action is like events (dispatch)
+- reducer is like events handler
+
+* steps
+  - Design the store
+  - define actions
+  - create reducer
+  - setup the store
