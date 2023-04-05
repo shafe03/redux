@@ -1,4 +1,4 @@
-# Reduxt
+# Redux
 
     - redux is a state management library for javascript application.
     - In complex app different component state is hard to maintain.
